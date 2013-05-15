@@ -14,6 +14,6 @@ cd addon_securityadvisor
 
 /usr/local/cpanel/3rdparty/bin/git fetch
 
-cd addon_securityadvisor/pkg
+cd pkg
 
 ./install
